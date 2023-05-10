@@ -1,0 +1,30 @@
+C:\Users\UNIP\Documents\Exercicio\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\UNIP\Documents\Exercicio\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\UNIP\Documents\Exercicio\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\UNIP\Documents\Exercicio\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.exe
+C:\Users\UNIP\Documents\Exercicio\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.pdb
+C:\Users\UNIP\Documents\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\UNIP\Documents\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\UNIP\Documents\ConsoleApp\ConsoleApp\bin\Debug\negocio.dll
+C:\Users\UNIP\Documents\ConsoleApp\ConsoleApp\bin\Debug\negocio.pdb
+C:\Users\UNIP\Documents\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\UNIP\Documents\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.exe
+C:\Users\UNIP\Documents\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.pdb
+C:\Users\UNIP\Desktop\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.exe
+C:\Users\UNIP\Desktop\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.pdb
+C:\Users\UNIP\Desktop\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\UNIP\Desktop\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\UNIP\Desktop\ConsoleApp\ConsoleApp\bin\Debug\negocio.dll
+C:\Users\UNIP\Desktop\ConsoleApp\ConsoleApp\bin\Debug\negocio.pdb
+C:\Users\UNIP\Desktop\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\ConsoleApp\bin\Debug\negocio.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\ConsoleApp\bin\Debug\negocio.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.pdb

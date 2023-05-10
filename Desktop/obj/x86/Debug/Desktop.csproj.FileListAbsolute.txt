@@ -1,0 +1,24 @@
+C:\Users\UNIP\Desktop\ConsoleApp\Desktop\bin\Debug\Desktop.exe
+C:\Users\UNIP\Desktop\ConsoleApp\Desktop\bin\Debug\Desktop.pdb
+C:\Users\UNIP\Desktop\ConsoleApp\Desktop\bin\Debug\negocio.dll
+C:\Users\UNIP\Desktop\ConsoleApp\Desktop\bin\Debug\negocio.pdb
+C:\Users\UNIP\Desktop\ConsoleApp\Desktop\obj\x86\Debug\Desktop.csprojResolveAssemblyReference.cache
+C:\Users\UNIP\Desktop\ConsoleApp\Desktop\obj\x86\Debug\Desktop.frmCalculadora.resources
+C:\Users\UNIP\Desktop\ConsoleApp\Desktop\obj\x86\Debug\Desktop.Properties.Resources.resources
+C:\Users\UNIP\Desktop\ConsoleApp\Desktop\obj\x86\Debug\Desktop.csproj.GenerateResource.Cache
+C:\Users\UNIP\Desktop\ConsoleApp\Desktop\obj\x86\Debug\Desktop.exe
+C:\Users\UNIP\Desktop\ConsoleApp\Desktop\obj\x86\Debug\Desktop.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\Desktop\bin\Debug\Desktop.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\Desktop\bin\Debug\Desktop.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\Desktop\bin\Debug\Desktop.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\Desktop\bin\Debug\negocio.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\Desktop\bin\Debug\negocio.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\Desktop\obj\x86\Debug\Desktop.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\Desktop\obj\x86\Debug\Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\Desktop\obj\x86\Debug\Desktop.frmCalculadora.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\Desktop\obj\x86\Debug\Desktop.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\Desktop\obj\x86\Debug\Desktop.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\Desktop\obj\x86\Debug\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\Desktop\obj\x86\Debug\Desktop.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\Desktop\obj\x86\Debug\Desktop.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\ConsoleApp\Desktop\obj\x86\Debug\Desktop.pdb

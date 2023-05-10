@@ -1,0 +1,8 @@
+C:\Users\UNIP\Documents\Exercicio\ConsoleApp\negocio\bin\Debug\negocio.dll
+C:\Users\UNIP\Documents\Exercicio\ConsoleApp\negocio\bin\Debug\negocio.pdb
+C:\Users\UNIP\Documents\Exercicio\ConsoleApp\negocio\obj\Debug\negocio.dll
+C:\Users\UNIP\Documents\Exercicio\ConsoleApp\negocio\obj\Debug\negocio.pdb
+C:\Users\UNIP\Documents\ConsoleApp\Negocio\bin\Debug\negocio.dll
+C:\Users\UNIP\Documents\ConsoleApp\Negocio\bin\Debug\negocio.pdb
+C:\Users\UNIP\Documents\ConsoleApp\Negocio\obj\Debug\negocio.dll
+C:\Users\UNIP\Documents\ConsoleApp\Negocio\obj\Debug\negocio.pdb
